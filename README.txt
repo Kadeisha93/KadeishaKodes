@@ -1,6 +1,6 @@
 # My Personal Website
 Say hello to my personal website, Kadeisha Kodes! Feel free to take a look at some projects that I have worked on recently, and utilize any of the links to reach out and connect with me.
-## **Link to project:** https://www.kadeishakodes.com/
+## **Link to project:** https://kadeishakodes.com/
 ![personalSite](snapshot.png)
 
 ## How It's Made:
